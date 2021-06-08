@@ -1,0 +1,2 @@
+Land cover Analysis of Adams County PA using LIDAR Landsat 2010 imagery. Landcover classification was creating using ESRI's Spatial Analyst extension.
+A supervised classification method was used to create the landcover matrix which was then applied to the imagery of Adams County.
