@@ -1,2 +1,2 @@
-this short script will allow the user to ask the googlemaps api to pull a geocoded adress and its accompanying geojson information. A valdi google maps API key is needed.
+this short script will allow the user to ask the googlemaps api to pull a geocoded adress and its accompanying geojson information. A valid google maps API key is needed.
 check here to obtain a developer key https://developers.google.com/maps/documentation/places/web-service/get-api-key
